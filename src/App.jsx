@@ -1,6 +1,6 @@
 import "./App.css";
-import image from "./YoPort.jpg";
 import About from './components/About/About'
+import Contact from './components/Contact/Contact'
 
 function App() {
   return (
@@ -9,8 +9,8 @@ function App() {
       <main>
         <About />
         {/* <Projects />
-        <Skills />
-        <Contact /> */}
+        <Skills /> */}
+        <Contact />
       </main>
     </div>
   );
