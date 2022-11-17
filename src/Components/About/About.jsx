@@ -1,5 +1,5 @@
-import GitHubIcon from '@material-ui/icons/GitHub'
-import LinkedInIcon from '@material-ui/icons/LinkedIn'
+// import GitHubIcon from '@material-ui/icons/GitHub'
+// import LinkedInIcon from '@material-ui/icons/LinkedIn'
 import { about } from '../../portfolio.jsx'
 import Photo from '../Photo'
 import './About.css'
@@ -37,7 +37,7 @@ const About = () => {
                 aria-label='github'
                 className='link link--icon'
               >
-                <GitHubIcon />
+                {/* <GitHubIcon /> */}
               </a>
             )}
 
@@ -47,7 +47,7 @@ const About = () => {
                 aria-label='linkedin'
                 className='link link--icon'
               >
-                <LinkedInIcon />
+                {/* <LinkedInIcon /> */}
               </a>
             )}
           </>
