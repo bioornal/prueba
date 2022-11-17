@@ -2,8 +2,9 @@
   padding: 2em;
   margin: 0 auto;
   text-align: center;
-  box-shadow: var(--shadow);
+  box-shadow: 3px 3px 20px 10px rgb(233, 230, 230);
   transition: transform 0.2s linear;
+
 }
 
 .project:hover {

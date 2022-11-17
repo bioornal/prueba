@@ -1,10 +1,16 @@
 .about {
   flex-direction: column;
   margin-top: 3em;
+  font-family: 'Jaldi', sans-serif;
 }
 
+.hola{
+  color: rgb(44, 44, 44);
+  font-size: 75px;
+}
 .about__name {
-  color: var(--clr-primary);
+  color: rgb(58, 97, 182);
+  font-size: 1em;
 }
 
 .about__role {
